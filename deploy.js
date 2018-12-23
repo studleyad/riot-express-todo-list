@@ -76,7 +76,7 @@ function sshConnect() {
 
   ssh
     .connect({
-      host: '52.205.178.56',
+      host: '34.201.163.252',
       username: 'ubuntu',
       privateKey: 'hs-key.pem'
     })
